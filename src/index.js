@@ -1,6 +1,7 @@
 
 exports.min = function min (array) {
-  return 0;
+ let a = array[0] + array[2];
+  return a;
 }
 
 exports.max = function max (array) {
